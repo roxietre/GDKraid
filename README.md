@@ -1,4 +1,4 @@
-# RAID System
+# Stats raid system
 
 ## Introduction
 Welcome to the RAID System! This system is designed to efficiently manage data storage across multiple drives.
